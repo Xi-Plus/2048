@@ -1,0 +1,112 @@
+@charset "utf-8";
+html body {
+	color: #776e65;
+}
+.message {
+	text-align:center;
+	width: 100px;
+	height: 60px;
+	color: white;
+	background: #bbada0;
+	font-size: 25px;
+}
+.cell {
+	background: #CCC0B3;
+	width: 60px;
+	height: 60px;
+}
+.cellnone {
+	background: #BBADA0;
+	width: 60px;
+	height: 60px;
+}
+.wall {
+	background: #BBADA0;
+}
+.wallnone {
+	background: #000000;
+}
+.wallright {
+	width: 10px;
+	height: 60px;
+}
+.wallbottom {
+	width: 60px;
+	height: 10px;
+}
+.blockother {
+	width: 10px;
+	height: 10px;
+}
+.tdcell {
+	font-size: 36px;
+	text-align: center;
+	font-weight: bold;
+}
+.tile-2 {
+	background: #eee4da;
+}
+.tile-4 {
+	background: #ede0c8;
+}
+.tile-8 {
+	color: #f9f6f2;
+	background: #f2b179;
+}
+.tile-16 {
+	color: #f9f6f2;
+	background: #f59563;
+}
+.tile-32 {
+	color: #f9f6f2;
+	background: #f67c5f;
+}
+.tile-64 {
+	color: #f9f6f2;
+	background: #f65e3b;
+}
+.tile-128 {
+	color: #f9f6f2;
+	background: #edcf72;
+}
+.tile-256 {
+	color: #f9f6f2;
+	background: #edcc61;
+}
+.tile-512 {
+	color: #f9f6f2;
+	background: #edc850;
+}
+.tile-1024 {
+	font-size: 28px;
+	color: #f9f6f2;
+	background: #edc53f;
+}
+.tile-2048 {
+	font-size: 28px;
+	color: #f9f6f2;
+	background: #edc22e;
+}
+.tile-4096 {
+	font-size: 28px;
+	background: #66ED2E;
+}
+.tile-8192 {
+	font-size: 28px;
+	color: #f9f6f2;
+	background: #42B213;
+}
+.tile-16384 {
+	font-size: 28px;
+	background: #00FFC5;
+}
+.tile-32768 {
+	font-size: 28px;
+	color: #f9f6f2;
+	background: #2469FF;
+}
+.tile-65536 {
+	font-size: 28px;
+	color: #f9f6f2;
+	background: #2469FF;
+}
