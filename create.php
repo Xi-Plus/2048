@@ -6,6 +6,7 @@
 <head>
 	<meta charset="utf-8">
 	<title>2048 create</title>
+	<meta name=viewport content="width=device-width, initial-scale=1">
 	<link href="createcss.css" rel="stylesheet" type="text/css">
 	<link rel="shortcut icon" href="http://pc2.tfcis.org/xiplus/2048/icon.png">
 </head>

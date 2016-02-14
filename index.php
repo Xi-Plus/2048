@@ -5,6 +5,7 @@
 <head>
 	<meta charset="utf-8">
 	<title>2048</title>
+	<meta name=viewport content="width=device-width, initial-scale=1">
 	<link href="css.css" rel="stylesheet" type="text/css">
 	<script>
 	<?php
