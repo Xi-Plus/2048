@@ -66,8 +66,8 @@ function edit(i,j){
 </script>
 <form action="produce.php" method="post">
 Step 2<br>
-width=<input name="pwidth" type="number" value="<?php echo $width; ?>" size="5" disabled>
-height=<input name="pheight" type="number" value="<?php echo $height; ?>" size="5" disabled>
+width=<input name="pwidth" type="number" value="<?php echo $width; ?>" size="5" readonly>
+height=<input name="pheight" type="number" value="<?php echo $height; ?>" size="5" readonly>
 <table width="0" border="0" cellspacing="0" cellpadding="0">
 	<?php
 	function checktype($i,$j){
